@@ -56,9 +56,9 @@ A custom-designed **Service Blueprint PNG** visually represents:
 * 📘 `Final-Report.pdf`: In-depth written report (includes methodology, analysis, gaps, and recommendations)
 * 📊 `Service_Marketing_Assignment_ppt.pdf`: Visual presentation used for project defense
 * 🧾 `dmart_master_file.xlsx`: Survey dataset and coded variables
-* 🧮 `dmart_spss_data.sav`: SPSS raw data file used for statistical testing *(not uploaded here)*
-* 🧾 `codebook.xlsx`: Excel sheet containing column-wise code definitions *(not uploaded here)*
-* 🧷 `service_blueprint.png`: Service blueprint visual *(not uploaded here)*
+* 🧮 `dmart_spss_data.sav`: SPSS raw data file used for statistical testing 
+* 🧾 `codebook.xlsx`: Excel sheet containing column-wise code definitions 
+* 🧷 `service_blueprint.png`: Service blueprint visual 
 
 ---
 
@@ -96,27 +96,6 @@ A custom-designed **Service Blueprint PNG** visually represents:
 * **IBM SPSS Statistics** for quantitative analysis
 * **Microsoft Excel** for data coding and preprocessing
 * **Service Blueprinting** for process visualization
-
----
-
-## 👥 Team Members
-
-| Name                   | Roll No. |
-| ---------------------- | -------- |
-| Roshni Rana *(Leader)* | 22BCE305 |
-| Aadesh Koul            | 22BCE001 |
-| Anmol Panjwani         | 22BCE018 |
-| Ayush Patel            | 22BCE027 |
-| Jhalak Jain            | 22BEI031 |
-
----
-
-## 📆 Submission Details
-
-* **Course**: Service Marketing
-* **Institute**: Institute of Technology, Nirma University
-* **Faculty**: Prof. Rachita Jayswal
-* **Date**: March 18, 2025
 
 ---
 
